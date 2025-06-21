@@ -1,0 +1,21 @@
+# Environment and config files
+.env
+*.key
+*.pem
+
+# SSH keys
+*.pub
+id_*
+
+eval
+ssh_key 
+
+# Logs and databases
+*.log
+*.sqlite
+*.sql
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/

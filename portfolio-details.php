@@ -4,12 +4,12 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Portfolio Details - Personal Bootstrap Template</title>
+  <title>My Resume</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <!-- <link href="assets/img/favicon.png" rel="icon"> -->
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Fonts -->
@@ -36,7 +36,7 @@
   ======================================================== -->
 </head>
 
-<body class="portfolio-details-page">
+<body class="resume-page">
 
   <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
@@ -51,26 +51,9 @@
         <ul>
           <li><a href="index.php">Home</a></li>
           <li><a href="about.php">About</a></li>
-          <li><a href="resume.php">Resume</a></li>
+          <li><a href="resume.php" class="active">Resume</a></li>
           <li><a href="services.php">Services</a></li>
           <li><a href="portfolio.php">Portfolio</a></li>
-          <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-            <ul>
-              <li><a href="#">Dropdown 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-                <ul>
-                  <li><a href="#">Deep Dropdown 1</a></li>
-                  <li><a href="#">Deep Dropdown 2</a></li>
-                  <li><a href="#">Deep Dropdown 3</a></li>
-                  <li><a href="#">Deep Dropdown 4</a></li>
-                  <li><a href="#">Deep Dropdown 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Dropdown 2</a></li>
-              <li><a href="#">Dropdown 3</a></li>
-              <li><a href="#">Dropdown 4</a></li>
-            </ul>
-          </li>
           <li><a href="contact.php">Contact</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
@@ -87,8 +70,8 @@
         <div class="container">
           <div class="row d-flex justify-content-center text-center">
             <div class="col-lg-8">
-              <h1>Portfolio Details</h1>
-              <p class="mb-0">Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi ratione sint. Sit quaerat ipsum dolorem.</p>
+              <h1>Resume</h1>
+              <p class="mb-0">It's not just about coding, it's breking forth boundaries with <i>Technology.</p>
             </div>
           </div>
         </div>
@@ -97,112 +80,156 @@
         <div class="container">
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li class="current">Portfolio Details</li>
+            <li class="current">Resume</li>
           </ol>
         </div>
       </nav>
     </div><!-- End Page Title -->
 
-    <!-- Portfolio Details Section -->
-    <section id="portfolio-details" class="portfolio-details section">
+    <!-- Resume Section -->
+    <section id="resume" class="resume section">
 
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
+      <div class="container">
 
-        <div class="row gy-4">
+        <div class="row">
 
-          <div class="col-lg-8">
-            <div class="portfolio-details-slider swiper init-swiper">
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <h3 class="resume-title">Summary</h3>
 
-              <script type="application/json" class="swiper-config">
-                {
-                  "loop": true,
-                  "speed": 600,
-                  "autoplay": {
-                    "delay": 5000
-                  },
-                  "slidesPerView": "auto",
-                  "pagination": {
-                    "el": ".swiper-pagination",
-                    "type": "bullets",
-                    "clickable": true
-                  }
-                }
-              </script>
-
-              <div class="swiper-wrapper align-items-center">
-
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-1.webp" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-10.webp" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-7.webp" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-4.webp" alt="">
-                </div>
-
-              </div>
-              <div class="swiper-pagination"></div>
-            </div>
-          </div>
-
-          <div class="col-lg-4">
-            <div class="portfolio-info" data-aos="fade-up" data-aos-delay="200">
-              <h3>Project information</h3>
+            <div class="resume-item pb-0">
+              <h4>Uffort Uwem</h4>
+              <p><em>As a full-stack developer, I focus on delivering simple, functional solutions tailored to user needs. With a strong foundation in PHP and database management, I develop systems that prioritize usability and efficiency.</em></p>
               <ul>
-                <li><strong>Category</strong>: Web design</li>
-                <li><strong>Client</strong>: ASU Company</li>
-                <li><strong>Project date</strong>: 01 March, 2020</li>
-                <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li>
+                <li>Lagos, Nigeria</li>
+                <li>(+234) 907-337-1290</li>
+                <li>iconuwemfrank@gmail.com</li>
               </ul>
-            </div>
-            <div class="portfolio-description" data-aos="fade-up" data-aos-delay="300">
-              <h2>Exercitationem repudiandae officiis neque suscipit</h2>
-              <p>
-                Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
-              </p>
-            </div>
+            </div><!-- End Resume Item -->
+
+            <h3 class="resume-title">Education</h3>
+            <div class="resume-item">
+              <h4>Bachelor of Science  &amp; Geography</h4>
+              <h5>2017 - 2022</h5>
+              <p><em>University of Nigeria, Nsukka, Enugu state, Nigeria</em></p>
+              <p>I studied Geography out of a genuine passion for the environment and a strong desire to understand how people interact with their surroundings. While some may question the relevance of Geography in Nigeria’s job market, my experience tells a different story. The knowledge I gained has been useful in projects I care about — from a waste management app to my ongoing parish locator project. These experiences continue to prove that the course I studied has real value, especially when applied creatively.</p>
+            </div><!-- Edn Resume Item -->
+
           </div>
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200"> 
+            <h3 class="resume-title">Professional Experience</h3>
+
+            <div class="resume-item">
+              <h4>Software Developer</h4>
+              <h5>February 2025 – May 2025</h5>
+              <p><em>Cyclobold Tech, On-Site</em></p>
+              <ul>
+                <li>Revamped the full UI of a school management system, improving usability and visual structure using HTML, CSS, and responsive design best practices.</li>
+                <li>Redesigned the FixdRide mobile app interface into a responsive web application layout for broader accessibility across devices.</li>
+                <li>Collaborated with design leads to translate Figma mockups into clean, maintainable frontend code, ready for backend integration.</li>
+                <li>Practiced version control with Git and participated in internal reviews for UI improvement suggestions and component reusability.</li>
+              </ul>
+            </div><!-- End Resume Item -->
+
+
+            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
+  
+
+          </div>
+          <h3 class="resume-title">Projects</h3>
+  <div class="resume-item">
+    <h4>Waste Management Reporting System</h4>
+    <h5>PHP · OOP · MySQL · Paystack API</h5>
+    <p><em>Solo Project</em></p>
+    <ul>
+      <li>Built a web app that enables users to report household waste and get paid after admin verification.</li>
+      <li>Implemented an admin panel with features to:
+        <ul>
+          <li>View and manage customer data</li>
+          <li>Add and update service locations</li>
+          <li>List, update, or delete waste product types</li>
+          <li>Verify or remove reported waste entries</li>
+        </ul>
+      </li>
+      <li>Used OOP principles to organize the backend into reusable classes (e.g., Auth, Admin, Waste, Customer).</li>
+      <li>Integrated Paystack API to automate user payouts after successful waste verification.</li>
+    </ul>
+  </div>
+
+  <div class="resume-item mt-4">
+    <h4>RCCG Parish Locator App</h4>
+    <h5>Laravel · PHP · MySQL · JavaScript</h5>
+    <p><em>Ongoing Project</em></p>
+    <ul>
+      <li>Developed a locator web app for RCCG parishes across Nigeria to help users find the nearest parishes quickly.</li>
+      <li>Working on dynamic database schemas, user access controls, and location-based search features.</li>
+      <li>Implemented geolocation-based search functionality using browser geolocation API, supplemented with state and city filtering for enhanced discoverability.</li>
+      <li>Architected a two-tier role-based access control system:
+          <ul>
+            <li> Platform administrators manage verification and system oversight</li>
+            <li>Parish administrators independently update service times, events, photos, and contact information</li>
+          </ul>
+     
+          
+      <li>Implementing user-friendly UI and responsive design for both mobile and desktop.</li>
+      <li>Integrated event listings and parish services to increase user engagement.</li>
+    </ul>
+  </div>
+
+  <div class="resume-item mt-4">
+    <h4>B-Kitchen Food Ordering App</h4>
+    <h5>Laravel · Tailwind CSS · Alpine.js · MySQL · Cloudinary</h5>
+    <p><em>Client Project · February 2026 – May 2026</em></p>
+    <ul>
+      <li>Built a food ordering web app for a home-based food delivery business, taking it from schema design through to deployment on Laravel Cloud.</li>
+      <li>Designed a WhatsApp checkout flow that sends each order to the vendor as a pre-filled message, chosen over online payment to match how the client already takes orders.</li>
+      <li>Engineered a custom cart architecture:
+        <ul>
+          <li>Session-based cart handled by a dedicated CartService class</li>
+          <li>Guest checkout, so customers order without creating an account</li>
+          <li>Price snapshots stored with each order item, so later menu price changes never alter past orders</li>
+        </ul>
+      </li>
+      <li>Built an admin dashboard for managing products, with Cloudinary image uploads and a responsive Tailwind/Alpine Blade component system, including a mobile slide-in drawer navigation.</li>
+      <li>Translated the "Ember &amp; Spice" restaurant UI design into production Blade templates with dynamic rendering.</li>
+      <li>Resolved production deployment issues, including Cloudinary configuration mismatches between local and cloud environments and case-sensitive Linux file paths.</li>
+      <li>Live at <a href="https://b-kitchen.laravel.cloud" target="_blank" rel="noopener">b-kitchen.laravel.cloud</a>.</li>
+    </ul>
+  </div>
+</div>
+
+
 
         </div>
 
       </div>
 
-    </section><!-- /Portfolio Details Section -->
+    </section><!-- /Resume Section -->
 
   </main>
 
-  <footer id="footer" class="footer dark-background">
-    <div class="container">
-      <h3 class="sitename">Personal</h3>
-      <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
-      <div class="social-links d-flex justify-content-center">
-        <a href=""><i class="bi bi-twitter-x"></i></a>
-        <a href=""><i class="bi bi-facebook"></i></a>
-        <a href=""><i class="bi bi-instagram"></i></a>
-        <a href=""><i class="bi bi-skype"></i></a>
-        <a href=""><i class="bi bi-linkedin"></i></a>
-      </div>
-      <div class="container">
-        <div class="copyright">
-          <span>Copyright</span> <strong class="px-1 sitename">Personal</strong> <span>All Rights Reserved</span>
-        </div>
-        <div class="credits">
-          <!-- All the links in the footer should remain intact. -->
-          <!-- You can delete the links only if you've purchased the pro version. -->
-          <!-- Licensing information: https://bootstrapmade.com/license/ -->
-          <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-        </div>
-      </div>
+  <footer id="footer" class="footer bg-dark text-light py-5">
+  <div class="container text-center">
+    <h3 class="fw-bold">Uffort Uwem</h3>
+    <p class="mb-4">Driven by curiosity, committed to impact. Building solutions with clean code and a purpose.</p>
+
+    <div class="d-flex justify-content-center gap-3 mb-4">
+      <a href="https://twitter.com/uwemski" class="text-light"><i class="bi bi-twitter-x"></i></a>
+      <a href="#" class="text-light"><i class="bi bi-facebook"></i></a>
+      <a href="https://instagram.com/uwemski_mk" class="text-light"><i class="bi bi-instagram"></i></a>
+      <a href="#" class="text-light"><i class="bi bi-skype"></i></a>
+      <a href="https://www.linkedin.com/in/uffort-uwem" class="text-light"><i class="bi bi-linkedin"></i></a>
     </div>
-  </footer>
+
+    <!-- <div class="small">
+      &copy; <span id="year"></span> <strong>Uffort Uwem</strong>. All Rights Reserved.
+    </div> -->
+
+    <div class="credits small  mt-1">
+      Designed with inspiration from <a href="https://bootstrapmade.com/" target="_blank" class="text-reset fw-semibold">BootstrapMade</a>
+    </div>
+  </div>
+</footer>
 
   <!-- Scroll Top -->
   <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>

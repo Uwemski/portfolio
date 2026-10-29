@@ -91,8 +91,8 @@
     <section id="portfolio" class="portfolio section">
   <div class="container">
     <div class="section-title text-center">
-      <h2>My Projects</h2>
-      <p>Here are some of the real-world apps I've built using PHP, Laravel, MySQL, and Bootstrap. Each project highlights my ability to solve problems and write maintainable code.</p>
+      <h2 style='margin-bottom:1rem'>My Projects</h2>
+      <p>Real-world applications built with Laravel 11, PHP 8, and MySQL. Each project demonstrates full-stack development skills including API integrations, role-based authentication, geolocation services, and responsive design.</p></p>
     </div>
 
     <div class="row gy-4">
@@ -103,7 +103,7 @@
           <img src="assets/img/portfolio/dispose.png" class="card-img-top" alt="Waste Management App Screenshot">
           <div class="card-body">
             <h5 class="card-title">Waste Management System (PHP OOP)</h5>
-            <p class="card-text">A web app that allows users to report waste, and admins to track, pay, and manage reports. Built with PHP OOP, MySQL, and Bootstrap. Includes user auth, admin dashboard, and Paystack integration.</p>
+            <p class="card-text">  Community waste management platform with role-based access (users & admins). Users report waste disposal needs while admins track, verify, and process payments via Paystack API integration. Features authentication system, admin dashboard with analytics, and Bootstrap-responsive interface built with PHP OOP principles.</p>
             <div class="d-flex justify-content-between">
               <a href="https://your-live-link.com" class="btn btn-sm btn-success" target="_blank"><i class="bi bi-box-arrow-up-right"></i> Live Demo</a>
               <a href="https://github.com/uwemski/waste_app" class="btn btn-sm btn-dark" target="_blank"><i class="bi bi-github"></i> Code</a>
@@ -118,10 +118,10 @@
           <img src="assets/img/portfolio/locator-app.webp" class="card-img-top" alt="RCCG Locator Screenshot">
           <div class="card-body">
             <h5 class="card-title">RCCG Parish Locator (Laravel)</h5>
-            <p class="card-text">A Laravel app to help users find nearby RCCG parishes with features like parish registration, events, and service listings. Utilizes Laravel blade templates, routing, Eloquent, and form validation.</p>
+            <p class="card-text">A geolocation-based Laravel application that helps RCCG members find nearby parishes with real-time service schedules, events, and integrated Google Maps directions. Features a two-tier admin system (platform + parish admins), verification workflows, automated email notifications, and responsive map interface using Leaflet.js.</p>
             <div class="d-flex justify-content-between">
               <a href="https://your-live-link.com" class="btn btn-sm btn-success" target="_blank"><i class="bi bi-box-arrow-up-right"></i> Live Demo</a>
-              <a href="https://github.com/yourusername/rccg-locator" class="btn btn-sm btn-dark" target="_blank"><i class="bi bi-github"></i> Code</a>
+              <a href="https://github.com/Uwemski/locator" class="btn btn-sm btn-dark" target="_blank"><i class="bi bi-github"></i> Code</a>
             </div>
           </div>
         </div>

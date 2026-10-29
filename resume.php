@@ -120,7 +120,7 @@
             <h3 class="resume-title">Professional Experience</h3>
 
             <div class="resume-item">
-              <h4>Frontend Developer</h4>
+              <h4>Software Developer</h4>
               <h5>February 2025 – May 2025</h5>
               <p><em>Cyclobold Tech, On-Site</em></p>
               <ul>
@@ -161,10 +161,18 @@
     <h5>Laravel · PHP · MySQL · JavaScript</h5>
     <p><em>Ongoing Project</em></p>
     <ul>
-      <li>Developing a locator web app for RCCG parishes across Nigeria to help users find the nearest parishes quickly.</li>
+      <li>Developed a locator web app for RCCG parishes across Nigeria to help users find the nearest parishes quickly.</li>
       <li>Working on dynamic database schemas, user access controls, and location-based search features.</li>
+      <li>Implemented geolocation-based search functionality using browser geolocation API, supplemented with state and city filtering for enhanced discoverability.</li>
+      <li>Architected a two-tier role-based access control system:
+          <ul>
+            <li> Platform administrators manage verification and system oversight</li>
+            <li>Parish administrators independently update service times, events, photos, and contact information</li>
+          </ul>
+     
+          
       <li>Implementing user-friendly UI and responsive design for both mobile and desktop.</li>
-      <li>Planning to integrate event listings and parish services to increase user engagement.</li>
+      <li>Integrated event listings and parish services to increase user engagement.</li>
     </ul>
   </div>
 </div>

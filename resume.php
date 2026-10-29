@@ -175,6 +175,27 @@
       <li>Integrated event listings and parish services to increase user engagement.</li>
     </ul>
   </div>
+
+  <div class="resume-item mt-4">
+    <h4>B-Kitchen Food Ordering App</h4>
+    <h5>Laravel · Tailwind CSS · Alpine.js · MySQL · Cloudinary</h5>
+    <p><em>Client Project · February 2026 – May 2026</em></p>
+    <ul>
+      <li>Built a food ordering web app for a home-based food delivery business, taking it from schema design through to deployment on Laravel Cloud.</li>
+      <li>Designed a WhatsApp checkout flow that sends each order to the vendor as a pre-filled message, chosen over online payment to match how the client already takes orders.</li>
+      <li>Engineered a custom cart architecture:
+        <ul>
+          <li>Session-based cart handled by a dedicated CartService class</li>
+          <li>Guest checkout, so customers order without creating an account</li>
+          <li>Price snapshots stored with each order item, so later menu price changes never alter past orders</li>
+        </ul>
+      </li>
+      <li>Built an admin dashboard for managing products, with Cloudinary image uploads and a responsive Tailwind/Alpine Blade component system, including a mobile slide-in drawer navigation.</li>
+      <li>Translated the "Ember &amp; Spice" restaurant UI design into production Blade templates with dynamic rendering.</li>
+      <li>Resolved production deployment issues, including Cloudinary configuration mismatches between local and cloud environments and case-sensitive Linux file paths.</li>
+      <li>Live at <a href="https://b-kitchen.laravel.cloud" target="_blank" rel="noopener">b-kitchen.laravel.cloud</a>.</li>
+    </ul>
+  </div>
 </div>
 
 

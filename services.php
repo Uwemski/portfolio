@@ -156,6 +156,17 @@
     </div>
   </div>
 
+  <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+    <div class="service-item position-relative">
+      <div class="icon">
+        <i class="bi bi-terminal"></i>
+      </div>
+      <a href="#" class="stretched-link">
+        <h3>API Development</h3>
+      </a>
+      <p>Designing and implementing RESTful APIs to enable seamless communication between different software components and services.</p>
+    </div>
+  </div>
 </div>
 
 

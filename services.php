@@ -184,9 +184,9 @@
       <div class="social-links d-flex justify-content-center">
         <a href="https://twitter.com/Uwemski"><i class="bi bi-twitter-x"></i></a>
         <a href="#"><i class="bi bi-facebook"></i></a>
-        <a href="https://instagram.com/uwemski_mk"><i class="bi bi-instagram"></i></a>
+        <a href="https://instagram.com/uwemskii"><i class="bi bi-instagram"></i></a>
         <a href=""><i class="bi bi-skype"></i></a>
-        <a href="www.linkedin.com/in/uffort-uwem"><i class="bi bi-linkedin"></i></a>
+        <a href="https://linkedin.com/in/uffort-uwem"><i class="bi bi-linkedin"></i></a>
       </div>
       <div class="container">
         <div class="copyright">

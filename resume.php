@@ -216,9 +216,9 @@
     <div class="d-flex justify-content-center gap-3 mb-4">
       <a href="https://twitter.com/uwemski" class="text-light"><i class="bi bi-twitter-x"></i></a>
       <a href="#" class="text-light"><i class="bi bi-facebook"></i></a>
-      <a href="https://instagram.com/uwemski_mk" class="text-light"><i class="bi bi-instagram"></i></a>
+      <a href="https://instagram.com/uwemskii" class="text-light"><i class="bi bi-instagram"></i></a>
       <a href="#" class="text-light"><i class="bi bi-skype"></i></a>
-      <a href="https://www.linkedin.com/in/uffort-uwem" class="text-light"><i class="bi bi-linkedin"></i></a>
+      <a href="https://linkedin.com/in/uffort-uwem" class="text-light"><i class="bi bi-linkedin"></i></a>
     </div>
 
     <!-- <div class="small">

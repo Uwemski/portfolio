@@ -171,14 +171,14 @@
 
   <footer id="footer" class="footer dark-background">
     <div class="container">
-      <h3 class="sitename">Portfolio</h3>
-      <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
+      <h3 class="sitename">Uffort Uwem</h3>
+      <p>Driven by curiosity, committed to impact. Building solutions with clean code and a purpose.</p>
       <div class="social-links d-flex justify-content-center">
         <a href="https://twitter.com/uwemski"><i class="bi bi-twitter-x"></i></a>
         <a href=""><i class="bi bi-facebook"></i></a>
-        <a href="https://instagram.com/uwemski_mk"><i class="bi bi-instagram"></i></a>
+        <a href="https://instagram.com/uwemskii"><i class="bi bi-instagram"></i></a>
         <a href="#"><i class="bi bi-skype"></i></a>
-        <a href="www.linkedin.com/in/uffort-uwem"><i class="bi bi-linkedin"></i></a>
+        <a href="https://linkedin.com/in/uffort-uwem"><i class="bi bi-linkedin"></i></a>
       </div>
       <div class="container">
         <div class="copyright">

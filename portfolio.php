@@ -106,7 +106,7 @@
         <!-- Project 3 -->
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-item card shadow-sm h-100">
-            <img src="assets/img/portfolio/b-kitchen.png"
+            <img src="assets/img/b-kitchen.png"
                 class="card-img-top"
                 alt="B-Kitchen Restaurant Ordering Application">
 
@@ -163,7 +163,7 @@
         <!-- Project 3 -->
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-item card shadow-sm h-100">
-            <img src="assets/img/portfolio/donpas.png"
+            <img src="assets/img/donpas.png"
                 class="card-img-top"
                 alt="DONPAS Engineering Company Website">
 

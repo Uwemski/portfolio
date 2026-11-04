@@ -105,16 +105,14 @@
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>24 June 2001</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>https://portfolio-4k63.onrender.com/index.php</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+234 907 337 1290</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Lagos State, Nigeria</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>23</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor of Science</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Geography(Bachelor of Science)</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>iconuwemfrank@gmail.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Hybrid:</strong> <span>Available</span></li>
@@ -122,7 +120,7 @@
               </div>
             </div>
             <p class="mt-4">
-              I'm a self-driven developer who believes in continuous learning and simplicity in design. I specialize in building responsive web apps that not only look good but also perform well. Whether you're an employer or a client, I’m excited to bring your ideas to life.
+              I'm a self-driven developer who believes in continuous learning and simplicity in design. I specialize in building responsive web apps that not only look good but also perform well. Whether you're an employer or a client, I'm excited to bring your ideas to life.
             </p>
           </div>
         </div>
@@ -238,9 +236,7 @@
                 <div class="progress-bar" role="progressbar" aria-valuenow="59" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div><!-- End Skills Item -->
-
           </div>
-
         </div>
 
       </div>

@@ -135,7 +135,7 @@
         <!-- Project 2 -->
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-item card shadow-sm h-100">
-            <img src="assets/img/locator-app.png"
+            <img src="assets\img\locator_app.PNG"
                 class="card-img-top"
                 alt="RCCG Parish Locator Screenshot">
 

@@ -135,7 +135,7 @@
         <!-- Project 2 -->
         <div class="col-lg-4 col-md-6">
           <div class="portfolio-item card shadow-sm h-100">
-            <img src="assets/img/portfolio/locator-app.webp"
+            <img src="assets/img/locator-app.png"
                 class="card-img-top"
                 alt="RCCG Parish Locator Screenshot">
 
@@ -206,9 +206,9 @@
               </p>
 
               <div class="d-flex justify-content-between">
-                <a href="#" class="btn btn-sm btn-success" target="_blank">
+                <!-- <a href="#" class="btn btn-sm btn-success" target="_blank">
                   <i class="bi bi-box-arrow-up-right"></i> Live Demo
-                </a>
+                </a> -->
                 <a href="https://github.com/uwemski/waste_app" class="btn btn-sm btn-dark" target="_blank">
                   <i class="bi bi-github"></i> Code
                 </a>
